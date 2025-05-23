@@ -1,7 +1,5 @@
 # Clinical-Report-Parser-Prototype
 
-# Clinical Report Parser – Prototype
-
 This is a simple prototype I built to automatically extract vital signs from scanned medical reports (like PDFs or images you get after a doctor visit).
 
 It uses OCR (optical character recognition) to read the text, and then applies pattern matching to find values like:
