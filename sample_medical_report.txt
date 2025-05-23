@@ -1,0 +1,37 @@
+REFERTO MEDICO
+==============
+
+Paziente: Mario Rossi
+Data: 23/05/2025
+Medico: Dr. Giovanni Bianchi
+
+ESAME CLINICO GENERALE
+
+Il paziente maschio di 45 anni si presenta per controllo di routine.
+
+PARAMETRI VITALI:
+- Pressione arteriosa: 135/85 mmHg
+- Frequenza cardiaca: 76 bpm
+- Saturazione ossigeno: 96%
+- Temperatura corporea: 36.7°C
+- Peso: 74 kg
+- Altezza: 179 cm
+
+ESAMI EMATOCHIMICI:
+- Glicemia: 102 mg/dL
+- Colesterolo totale: 220 mg/dL
+- Trigliceridi: 150 mg/dL
+
+OSSERVAZIONI:
+Il paziente presenta valori pressori leggermente elevati.
+La glicemia è al limite superiore della norma.
+Si consiglia controllo cardiologico e monitoraggio pressorio.
+
+RACCOMANDAZIONI:
+- Dieta iposodica
+- Attività fisica regolare
+- Controllo tra 3 mesi
+
+Dr. Giovanni Bianchi
+Medico di Medicina Generale
+Ordine dei Medici n. 12345

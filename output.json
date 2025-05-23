@@ -1,0 +1,81 @@
+[
+  {
+    "metadata": {
+      "file_path": "referto_test_ivan.pdf",
+      "file_name": "referto_test_ivan.pdf",
+      "file_size_bytes": 1353,
+      "file_extension": ".pdf",
+      "processing_timestamp": "2025-05-23T18:04:03.942182",
+      "processor_version": "1.0"
+    },
+    "extraction_info": {
+      "total_parameters": 8,
+      "extracted_parameters": 6,
+      "extraction_rate_percent": 75.0,
+      "text_length_raw": 445,
+      "text_length_cleaned": 433,
+      "processing_status": "success"
+    },
+    "vital_parameters": {
+      "blood_pressure": {
+        "value": "128/82 mmHg",
+        "unit": "mmHg",
+        "normal_range": "90-120/60-80 mmHg",
+        "status": "invalid"
+      },
+      "heart_rate": {
+        "value": "72 bpm",
+        "unit": "bpm",
+        "normal_range": "60-100 bpm",
+        "status": "normal"
+      },
+      "glucose": {
+        "value": null,
+        "unit": "mg/dL",
+        "normal_range": "70-100 mg/dL (fasting)",
+        "status": "unknown"
+      },
+      "oxygen_saturation": {
+        "value": null,
+        "unit": "%",
+        "normal_range": "95-100%",
+        "status": "unknown"
+      },
+      "body_temperature": {
+        "value": "36.6°C",
+        "unit": "°C",
+        "normal_range": "36.1-37.2°C",
+        "status": "normal"
+      },
+      "weight": {
+        "value": "77 kg",
+        "unit": "kg",
+        "normal_range": "varies by height/age",
+        "status": "unknown"
+      },
+      "height": {
+        "value": "178 cm",
+        "unit": "cm",
+        "normal_range": "varies by age/gender",
+        "status": "unknown"
+      },
+      "bmi": {
+        "value": "24.3",
+        "unit": "kg/m²",
+        "normal_range": "18.5-24.9",
+        "status": "normal"
+      }
+    },
+    "risk_assessment": {
+      "overall_risk_level": "low",
+      "risk_factors": [],
+      "risk_factor_count": 0,
+      "recommendations": [
+        "Continuare controlli regolari"
+      ],
+      "requires_medical_attention": false
+    },
+    "raw_text_sample": "REFERTO MEDICO - CONTROLLO PERIODICO\nPaziente: lvan Spadaccini\n\nEta: 27 anni\n\nData: 23/05/2025\n\nMedico: Dr.ssa Lucia Conti\n\nESAME OBIETTIVO:\n\n- Pressione arteriosa: 128/82 mmHg\n\n- Frequenza cardiaca: 72 bpm\n\n- Saturazione ossigeno: 98%\n\n- Glicemia a digiuno: 96 mg/dL\n\n- Temperatura corporea: 36.6°C\n\n- Peso: 77 kg\n\n- Altezza: 178 cm\n\nIl paziente si presenta in buone condizioni generali. Nessuna anomailia clinica rilevata al momento della vis\n",
+    "cleaned_text_sample": "REFERTO MEDICO - CONTROLLO PERIODICO Paziente: lvan Spadaccini Eta: 27 anni Data: 23/05/2025 Medico: Dr. ssa Lucia Conti ESAME OBIETTIVO: - Pressione arteriosa: 128/82 mmHg - Frequenza cardiaca: 72 bpm - Saturazione ossigeno: 98% - Glicemia a digiuno: 96 mg/dL - Temperatura corporea: 36.6°C - Peso: 77 kg - Altezza: 178 cm Il paziente si presenta in buone condizioni generali. Nessuna anomailia clinica rilevata al momento della vis"
+  }
+]

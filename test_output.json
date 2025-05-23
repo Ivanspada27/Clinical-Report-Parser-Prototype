@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "file_path": "test_report.pdf",
+    "file_name": "test_report.pdf",
+    "file_size_bytes": 0,
+    "file_extension": "unknown",
+    "processing_timestamp": "2025-05-23T18:06:39.020166",
+    "processor_version": "1.0"
+  },
+  "extraction_info": {
+    "total_parameters": 8,
+    "extracted_parameters": 8,
+    "extraction_rate_percent": 100.0,
+    "text_length_raw": 26,
+    "text_length_cleaned": 26,
+    "processing_status": "success"
+  },
+  "vital_parameters": {
+    "blood_pressure": {
+      "value": "135/85 mmHg",
+      "unit": "mmHg",
+      "normal_range": "90-120/60-80 mmHg",
+      "status": "invalid"
+    },
+    "heart_rate": {
+      "value": "76 bpm",
+      "unit": "bpm",
+      "normal_range": "60-100 bpm",
+      "status": "normal"
+    },
+    "glucose": {
+      "value": "102 mg/dL",
+      "unit": "mg/dL",
+      "normal_range": "70-100 mg/dL (fasting)",
+      "status": "prediabetes"
+    },
+    "oxygen_saturation": {
+      "value": "96%",
+      "unit": "%",
+      "normal_range": "95-100%",
+      "status": "normal"
+    },
+    "body_temperature": {
+      "value": "36.7°C",
+      "unit": "°C",
+      "normal_range": "36.1-37.2°C",
+      "status": "normal"
+    },
+    "weight": {
+      "value": "74 kg",
+      "unit": "kg",
+      "normal_range": "varies by height/age",
+      "status": "unknown"
+    },
+    "height": {
+      "value": "179 cm",
+      "unit": "cm",
+      "normal_range": "varies by age/gender",
+      "status": "unknown"
+    },
+    "bmi": {
+      "value": "23.1",
+      "unit": "kg/m²",
+      "normal_range": "18.5-24.9",
+      "status": "normal"
+    }
+  },
+  "risk_assessment": {
+    "overall_risk_level": "moderate",
+    "risk_factors": [
+      "Glicemia elevata"
+    ],
+    "risk_factor_count": 1,
+    "recommendations": [
+      "Controllo diabetologico",
+      "Monitoraggio glicemia regolare"
+    ],
+    "requires_medical_attention": false
+  },
+  "raw_text_sample": "Testo grezzo di esempio...",
+  "cleaned_text_sample": "testo pulito di esempio..."
+}
